@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/seek-Love/wyspa/issues"
   },
-  "homepage": "https://github.com/seek-Love/wyspa#readme"
+  "homepage": "https://github.com/seek-Love/wyspa#readme",
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  }
 }
